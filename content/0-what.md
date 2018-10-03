@@ -34,7 +34,7 @@ Remember, OER are more "open" if you choose simple licenses and open, easy to us
 # Traditional Examples
 
 Often when we think of OER, we think open textbooks.
-These often look just like proprietary textbooks, have the option to be printed, but have the benifits of open licensing.
+These often look just like proprietary textbooks, have the option to be printed, but have the benefits of open licensing.
 Some open textbook examples:
 
 - [Introduction to Probability](https://open.umn.edu/opentextbooks/textbooks/21)  (open textbook at the Open Textbook Library)

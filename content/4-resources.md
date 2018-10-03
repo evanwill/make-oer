@@ -3,7 +3,7 @@ title: Resources
 nav: true
 ---
 
-# Tech Reference
+# Glossary
 
 ### Git 
 
