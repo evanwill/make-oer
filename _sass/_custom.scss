@@ -5,6 +5,9 @@ header {
         border-bottom: none;
     }
 }
+.bg-nav {
+    background-color: $nav-color;
+}
 footer {
     border-top: solid 1px $top-border;
     .nav-link { 
