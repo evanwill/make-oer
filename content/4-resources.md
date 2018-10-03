@@ -3,7 +3,7 @@ title: Resources
 nav: true
 ---
 
-# Reference
+# Tech Reference
 
 ### Git 
 

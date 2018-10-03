@@ -19,7 +19,7 @@ This is the feature that makes OERs so powerful for teaching and learning--they 
 
 ## 5R permissions
 
-Open licenses such as [Creative Commons](https://creativecommons.org/), give you **rights**.
+When using open licenses such as [Creative Commons](https://creativecommons.org/) the author does NOT give up their copyright, but they grant everyone specific **rights** to use the materials.
 These are summarized by David Wiley in the [Open Content Definition](http://opencontent.org/definition/) as the "5R permissions":
 
 1. **Retain** – the right to make, own, and control copies of the content (e.g. download, duplicate, store, and manage)
@@ -28,4 +28,16 @@ These are summarized by David Wiley in the [Open Content Definition](http://open
 4. **Remix** – the right to combine the original or revised content with other material to create something new (e.g. incorporate the content into a mashup)
 5. **Redistribute** – the right to share copies of the original content, your revisions, or your remixes with others (e.g. give a copy of the content to a friend)
 
-Remember, OER are more "open" if choose simple licenses and open, easy to use formats!
+Licenses can also contain *requirements* (e.g. CC-BY-SA, must share with the same license) or *restrictions* (e.g. CC-BY-NC, no commercial use) that must be followed to granted the permissions.
+Remember, OER are more "open" if you choose simple licenses and open, easy to use formats!
+
+# Traditional Examples
+
+Often when we think of OER, we think open textbooks.
+These often look just like proprietary textbooks, have the option to be printed, but have the benifits of open licensing.
+Some open textbook examples:
+
+- [Introduction to Probability](https://open.umn.edu/opentextbooks/textbooks/21)  (open textbook at the Open Textbook Library)
+- [Project Management for Instructional Designers](https://pm4id.pressbooks.com/) (open textbook created and hosted on PressBooks)
+- [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php?stat_book=os) (in use in select Statistics courses at UI)
+- [OpenStax Psychology](https://openstax.org/details/books/psychology) (in use in select Psychology courses at UI)
