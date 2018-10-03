@@ -1,0 +1,20 @@
+<div class="row my-3">
+    <div class="col-md-6">
+        <figure class="figure text-center">
+            <img src="{{ 'uidaho-workshop.jpg' | prepend: '/images/' | absolute_url }}" alt="people reading in the library" class="figure-img img-fluid rounded">
+            <figcaption class="figure-caption">Education workshop</figcaption>
+        </figure>
+    </div>
+    <div class="col-md-6" >
+        <div class="card">
+            <h5 class="card-header">Contents</h5>
+            <div class="card-body">
+                <ul>
+                    {% for section in site.html_pages %}{% if section.nav == true %}
+                    <li><a href="{{ section.url | absolute_url }}">{{ section.title }}</a></li>
+                    {% endif %}{%- endfor -%}
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
