@@ -3,8 +3,6 @@ title: Resources
 nav: true
 ---
 
-# Resources
-
 # Reference
 
 ### Git 
@@ -16,8 +14,9 @@ However, it is fast and flexible enough to be used on any scale project, from yo
 
 [GitHub](https://github.com/){:target="_blank"} is a popular web service for hosting Git repositories--with benefits!
 It provides a handy web interface for editing and collaborating on repos, as well as, built in project management features and static web hosting.
+You can even [create DOIs for your repositories](https://guides.github.com/activities/citable-code/)!
 Accounts are free for public repositories--private repositories are available on a subscription pricing model.
-To learn more check out Hellow World on [GitHub Guides](https://guides.github.com/){:target="_blank"} or [GitHub Training](https://services.github.com/on-demand/){:target="_blank"}.
+To learn more check out Hello World on [GitHub Guides](https://guides.github.com/){:target="_blank"} or [GitHub Training](https://services.github.com/on-demand/){:target="_blank"}.
 
 ### Markdown
 
