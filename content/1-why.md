@@ -18,6 +18,8 @@ This program was in response to a need on campus-- the issue of textbook cost is
 For many big, lower level courses, this is really low hanging fruit to make a big impact on education affordability.
 Faculty often fail to realize that that extra $200 really does make a difference for students, and studies show lowing the cost actually impacts affordability, retention, and positive outcomes in courses.
 
+65% of student opt out of buying high-cost textbooks, https://uspirg.org/news/usp/survey-shows-students-opting-out-buying-high-cost-textbooks
+
 - equal access to the text, no excuse to not have it
 - keep a copy, no need to sell it back or join a rental scheme to save money
 
