@@ -49,14 +49,16 @@ Despite their limitations static sites are experiencing a [new boom](https://www
 - easy version control.
 
 To make development easier, hundreds of static site generators have sprung onto the scene.
-Static generators bundle together a stack of web development tools which are used to transform a directory of source code into a web site.
-[Jekyll](https://jekyllrb.com/) is one of the most popular and actively developed, in part because of its integration with gh-pages.
+Static generators are commandline applications that bundle together a stack of web development tools which are used to transform a directory of source code into a web site.
+Static site generators typically feature a command line interface, a builtin development server, simplified markup based content, a web templating language, a CSS preprocessor, and file-based data options.
 
-## Static Web Tools
+## Jekyll
 
-- [GitHub](https://github.com/){:target="_blank"} (cloud based platform for version control, collaboration, project management, and code sharing)
-- [GitHub Pages](https://pages.github.com/){:target="_blank"} (free web hosting service)
-- [Jekyll](https://jekyllrb.com/){:target="_blank"} (static site generator, provides the theme / templates)
-- [Markdown](https://daringfireball.net/projects/markdown/){:target="_blank"} (simple plain text content)
+[Jekyll](https://jekyllrb.com/){:target="_blank"} is the most popular static site generator, largely because it is integrated into GitHub Pages.
+This means that with a template or theme you can use Jekyll without installing anything on your local machine.
+
+Jekyll enables the separation of the content and data from the look and feel of the website.
+The creation of content is simplified by using [Markdown](https://daringfireball.net/projects/markdown/){:target="_blank"}.
+This ensures that your OER is easily editable and sustainable, with self-contained and portable content.
 
 {% include alert.md text="GitHub is not the only option! There are alternative hosts that offer the similar services, such as [Gitlab](https://about.gitlab.com/gitlab-com/), or you could manage your own simple static web hosting. This workshop focuses on GitHub because it is the largest community and features the easiest to use web interface." color="success" %}
