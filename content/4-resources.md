@@ -5,7 +5,7 @@ nav: true
 
 # OER Resources
 
-- Student PIRGs, [Make Textbooks Affortable](https://www.studentpirgs.org/textbooks) campaign.
+- Student PIRGs, [Make Textbooks Affordable](https://www.studentpirgs.org/textbooks) campaign.
 - The William and Flora Hewlett Foundation, [Open Education Resources](https://hewlett.org/strategy/open-educational-resources/) grant making and leadership.
 - Top Hat, [The Average Cost of Textbooks is Increasing](https://tophat.com/blog/average-cost-of-textbooks-infographic/) infographic.
 - University of Idaho Library, [Think Open Fellowships](https://libguides.uidaho.edu/THINKOPEN).

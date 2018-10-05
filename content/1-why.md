@@ -56,6 +56,9 @@ Enjoying the freedoms of open content instructors can:
 - Reformat to create new derivatives appropriate for different means of consuming content such as video, audio, or websites.
 - Adapt to the specific context, enabling learning materials to be responsive to your course, students needs, and pedagogy.
 
+To reiterate, cost-free is not the same as free (this is encapsulated well in the concept of [Free Software](https://www.gnu.org/philosophy/free-sw.en.html)). 
+While cost-free solutions such as reserves are great for students and should be supported by library initiatives, they do not provide the freedoms and permissions afforded by truly open content that enable sustainable innovation and community.
+
 --------
 
 [^1]: University of Idaho, [Cost of Attendance](https://www.uidaho.edu/financial-aid/cost-of-attendance)

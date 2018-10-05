@@ -5,7 +5,7 @@ nav: true
 
 # Examples of OER on GitHub
 
-Some projects and organizations I have been involved in to demonstrate the broad range of possibilities for OER on GitHub.
+To demonstrate the broad range of possibilities for OER on GitHub, I would like to introduce some projects and organizations I have been involved in:
 
 --------
 

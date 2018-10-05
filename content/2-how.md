@@ -44,7 +44,7 @@ However, this functionality requires complex server-side infrastructure and proc
 Despite their limitations static sites are experiencing a [new boom](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/), because they offer some significant advantages:
 
 - much faster performance (caching, low bandwidth, no processing time).
-- low hosting requirements (simple web servers, no dependencies).
+- low hosting requirements (simple web servers, no dependencies, minimal infrastructure).
 - no security vulnerabilities.
 - easy version control.
 
@@ -60,5 +60,6 @@ This means that with a template or theme you can use Jekyll without installing a
 Jekyll enables the separation of the content and data from the look and feel of the website.
 The creation of content is simplified by using [Markdown](https://daringfireball.net/projects/markdown/){:target="_blank"}.
 This ensures that your OER is easily editable and sustainable, with self-contained and portable content.
+It lowers the barrier to contributions, since content creators can just learn about Markdown (which takes about a [minute](https://evanwill.github.io/_drafts/notes/markdown-minute.html)) to meaningfully engage with the website.
 
 {% include alert.md text="GitHub is not the only option! There are alternative hosts that offer the similar services, such as [Gitlab](https://about.gitlab.com/gitlab-com/), or you could manage your own simple static web hosting. This workshop focuses on GitHub because it is the largest community and features the easiest to use web interface." color="success" %}
