@@ -11,7 +11,7 @@ nav: true
 - University of Idaho Library, [Think Open Fellowships](https://libguides.uidaho.edu/THINKOPEN).
 
 
-## Static Web Glossary
+## Glossary
 
 ----------
 
