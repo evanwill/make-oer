@@ -7,7 +7,7 @@ layout: default
 
 {% include toc.html %}
 
-**Evan Peter Williamson, [Idaho Libraries Association Conference](https://conference.idaholibraries.org/), {{ site.pub_year }}.**
+**Evan Peter Williamson, [Idaho Libraries Association Conference](https://web.archive.org/web/20181029024439/https://conference.idaholibraries.org/), {{ site.pub_year }}.**
 
 GitHub is a free code repository hosting service with project management tools, wikis, and websites built in—it provides everything you need to create, manage, and publish an open educational resource (OER)! 
 Hosting OER on GitHub facilitates creating materials that can be freely accessed, re-used, and adapted by others. 
