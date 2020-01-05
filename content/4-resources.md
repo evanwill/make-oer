@@ -5,13 +5,27 @@ nav: true
 
 # OER Resources
 
+References:
+
 - Student PIRGs, [Make Textbooks Affordable](https://www.studentpirgs.org/textbooks) campaign.
 - The William and Flora Hewlett Foundation, [Open Education Resources](https://hewlett.org/strategy/open-educational-resources/) grant making and leadership.
+- [UNESCO Open Educational Resources](https://en.unesco.org/themes/ict-education/oer)
+- [The Open Definition](https://opendefinition.org/)
+- David Wiley, [Open Content Definition](http://opencontent.org/definition/)
+- [Open Education Group](http://openedgroup.org/)
 - Top Hat, [The Average Cost of Textbooks is Increasing](https://tophat.com/blog/average-cost-of-textbooks-infographic/) infographic.
-- University of Idaho Library, [Think Open Fellowships](https://libguides.uidaho.edu/THINKOPEN).
+- University of Idaho Library, [Think Open Fellowships](https://www.lib.uidaho.edu/open/fellowship/).
 
+Find OER:
 
-## Glossary
+- [Open Textbook Library](https://open.umn.edu/opentextbooks/)
+- [Mason OER Metafinder](https://oer.deepwebaccess.com/oer/desktop/en/search.html)
+- BCCampus [Find Open Textbooks](https://open.bccampus.ca/browse-our-collection/find-open-textbooks/)
+- [MERLOT](https://www.merlot.org/merlot/index.htm?action=find)
+- [Rebus Community Catalog](https://press.rebus.community/catalog/)
+- [OER Commons](https://www.oercommons.org/)
+
+# Glossary
 
 ----------
 
